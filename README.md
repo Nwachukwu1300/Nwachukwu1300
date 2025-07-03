@@ -2,7 +2,7 @@
 🔭 **I’m currently working on**  <br>- An **AI-powered educational app** helping students learn smarter using LLM's powered with RAG  <br><br>👯 **I’m looking to collaborate on**  <br>- Open-source AI/LLM projects  <br>- Any idea that blends impact + innovation  <br><br>💬 **Ask me about**  <br>- Fine-tuning LLMs with knowledge graphs  <br>- Balancing tech projects with a full-time CS degree 😅  <br>
 
 
-## 🌐 Socials:
+## Contact me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mmesoma-nwachukwu-3a3862263/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mnfinance664@gmail.com) 
 
 # 💻 Tech Stack:

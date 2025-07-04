@@ -1,5 +1,5 @@
 # Hi, I'm Mmesoma (me-so-ma)👋:
-🔭 **I’m currently working on**  <br>- An **AI-powered educational app** helping students learn smarter using LLM's powered with RAG  <br><br>👯 **I’m looking to collaborate on**  <br>- Open-source AI/LLM projects  <br>- Any idea that blends impact + innovation  <br><br>💬 **Ask me about**  <br>- Fine-tuning LLMs with knowledge graphs  <br>- Balancing tech projects with a full-time CS degree 😅  <br>
+🔭 **I’m currently working on**  <br>- An **AI-powered educational app** helping students learn smarter using LLM's powered with RAG  <br><br>👯 **I’m looking to collaborate on**  <br>- Open-source projects  <br>- Any idea that blends impact + innovation  <br><br>💬 **Ask me about**  <br>- Fine-tuning LLMs with knowledge graphs  <br>- Balancing tech projects with a full-time CS degree 😅  <br>
 
 ## Portfolio:
 https://mmesomadev.com/

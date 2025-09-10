@@ -1,5 +1,4 @@
 # Hi, I'm Mmesoma (me-so-ma)👋:
-🔭 **I’m currently working on**  <br>- A library of the most popular ML models and practical use of them on real datasets <br><br>👯 **I’m looking to collaborate on**  <br>- Open-source projects  <br>- Any idea that blends impact + innovation  <br><br>💬 **Ask me about** <br>- Balancing tech projects with a full-time CS degree 😅  <br>
 
 ## Portfolio:
 https://mmesomadev.com/
